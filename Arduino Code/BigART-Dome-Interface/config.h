@@ -8,7 +8,7 @@ const char* ssid = "BIGART";     // Your WiFi network name
 const char* password = "KNO1ernow";    // Your WiFi password
 
 // Device Specific Settings
-const int deviceID = 38; // Manually set device ID for each device
+const int deviceID = 23; // Manually set device ID for each device
 
 // Calculated Static IP based on Device ID
 // Note: Adjust the static IP according to your network requirements
